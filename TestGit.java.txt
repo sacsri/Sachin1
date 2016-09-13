@@ -4,4 +4,17 @@ Class TestGit
     { 
 	   System.out.println("Git Hub Started");
 	}
+	
+	public void customerRecord()
+	  {
+	  
+	      String custRecord = null;
+	    if(customerRecord != null)
+		   {
+		      for(customerRecord custrec : custRecord)
+			     {
+				     System.out.println(custrec);
+				 }
+            }
+       }			
  }	
